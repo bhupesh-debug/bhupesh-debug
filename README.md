@@ -1,4 +1,4 @@
-<![CDATA[<h1 align="center">Bhupesh Chandra Dimri</h1>
+<h1 align="center">Bhupesh Chandra Dimri</h1>
 
 <h3 align="center">Finance Operations & Accounting Analytics | CPA Candidate | MS Accounting Analytics — Pace University</h3>
 
@@ -27,6 +27,7 @@ Accounting analytics professional with **10+ years** in financial operations, re
 ## Technical Skills
 
 ### Accounting & Finance
+
 ![U.S. GAAP](https://img.shields.io/badge/U.S._GAAP-005A9C?style=flat-square&logoColor=white)
 ![Technical Accounting](https://img.shields.io/badge/Technical_Accounting-005A9C?style=flat-square)
 ![Financial Reporting](https://img.shields.io/badge/Financial_Reporting-005A9C?style=flat-square)
@@ -47,6 +48,7 @@ Accounting analytics professional with **10+ years** in financial operations, re
 ![Prediction Markets](https://img.shields.io/badge/Prediction_Markets-005A9C?style=flat-square)
 
 ### ERP Systems & Platforms
+
 ![Oracle ERP](https://img.shields.io/badge/Oracle_ERP-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Oracle EPM](https://img.shields.io/badge/Oracle_EPM-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![NetSuite](https://img.shields.io/badge/NetSuite-1B7F8F?style=flat-square)
@@ -59,6 +61,7 @@ Accounting analytics professional with **10+ years** in financial operations, re
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 
 ### Data & Analytics
+
 ![Excel VBA](https://img.shields.io/badge/Excel_(VBA,_Pivots,_Modeling)-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -71,6 +74,7 @@ Accounting analytics professional with **10+ years** in financial operations, re
 ![Databases](https://img.shields.io/badge/Databases-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### AI & Automation
+
 ![EY AI Skills](https://img.shields.io/badge/EY_AI_Skills-FFE600?style=flat-square&logoColor=black)
 ![Blockchain Accounting](https://img.shields.io/badge/Blockchain_Accounting-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![ESG & BQL](https://img.shields.io/badge/ESG_%26_BQL-2E7D32?style=flat-square)
@@ -154,6 +158,7 @@ Accounting analytics professional with **10+ years** in financial operations, re
 - Led technical accounting quality reviews across U.S. banking operations, maintaining **95%+ GAAP compliance** accuracy
 - Authored accounting memos and policy documentation supporting audit preparation; coordinated cross-functional teams across Finance, Legal, and Compliance
 - Drove **16% performance improvement** through data-driven analysis; achieved **100% SLA adherence** and **0% procedural miss rate**
+
 </details>
 
 <details>
@@ -162,6 +167,7 @@ Accounting analytics professional with **10+ years** in financial operations, re
 - Directed team task completion to meet SLA quality standards with **100% quality checks** on accuracy and timeliness
 - Conducted team meetings addressing production, quality, and errors — resulting in **16% team performance improvement**
 - Controlled adherence to standards, targeting **0% miss** on compliance updates
+
 </details>
 
 <details>
@@ -170,6 +176,7 @@ Accounting analytics professional with **10+ years** in financial operations, re
 - Analyzed work distribution among team members, resulting in **30% less work stress** and **0% work stretch**
 - Prepared daily team volumes and reports; led smooth operations **100% daily**
 - Root cause analysis of errors improved team member accuracy by **1% per review cycle**
+
 </details>
 
 <details>
@@ -178,6 +185,7 @@ Accounting analytics professional with **10+ years** in financial operations, re
 - Managed fund transfers between bank and brokerage accounts with **99.5% operational efficiency**
 - **100% regulatory compliance** across equity and fixed-income transactions
 - Reviewed and assessed client profiles with risk tolerance alignment for broker-dealers
+
 </details>
 
 <details>
@@ -187,9 +195,11 @@ Accounting analytics professional with **10+ years** in financial operations, re
 - Created loan deal quotes with **100% accuracy** — interest rates, margins, amounts, loan periods
 - Maintained **80%+ client retention** through comprehensive, audit-ready financial records
 - **0% errors on credit checks**, contributing to **11% increase** in successful deal likelihood
+
 </details>
 
 ### Digital Koncept *(Dec 2012 – Dec 2013)*
+
 **Account Manager** — Bookkeeping, general ledger scrutiny, purchase invoice verification, tax error resolution
 
 ---
@@ -221,4 +231,3 @@ Accounting analytics professional with **10+ years** in financial operations, re
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhupesh-debug&style=flat-square&color=blue" alt="Profile Views">
 </p>
-]]>
