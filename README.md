@@ -67,7 +67,7 @@ Proven record of reducing reporting latency by **96%** (`48h → <2h`), eliminat
 
 ---
 
-### Senior FP&A Process Associate — Genpact India Pvt. Ltd.
+### Senior Process Associate (BFS) — Genpact India Pvt. Ltd.
 **India · Jan 2014 – Dec 2024**
 
 - Processed **1,000+ daily financial transactions** using Oracle ERP and SQL with **99.5% accuracy**, supporting multi-entity period-end close, accruals, and stakeholder reporting across a global finance organization
