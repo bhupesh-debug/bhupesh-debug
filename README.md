@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Bhupesh Chandra Dimri 👋</h1>
 
-<h3 align="center">Finance × Data Engineer | FP&A | Automation | CPA On-Track</h3>
+<h3 align="center">Industry Advisory & AI Transformation | Finance × Data Engineer | FP&A | CPA Candidate</h3>
 
 <p align="center">
-  <em>I build the infrastructure that makes financial analysis faster, smarter, and audit-ready.</em>
+  <em>I bridge executive advisory, agentic AI, and enterprise ERP delivery to make financial transformation faster, smarter, and audit-ready.</em>
 </p>
 
 <p align="center">
@@ -87,11 +87,17 @@ I don't just analyze — I build automated reporting pipelines and data-driven d
 
 ## 📌 Featured Projects
 
+**[Genpact Associate Principal — Industry Advisory & AI Blueprint](https://github.com/bhupesh-debug/genpact-ap-industry-advisory-package)** — End-to-end Industry Advisory (Hi-Tech Software – US) executive package, 30-60-90 Day Job Mastery plan, and 10-step ML Pursuit Win-Propensity & Delivery Margin Risk Engine blueprint
+
+**[Finance Reconciliation Break-Risk & Root-Cause Triage](https://github.com/bhupesh-debug/ml-project-finance-recon-break-risk)** — Governed Python analytics + AI proof of concept for CFO organizations to score reconciliation break risk and triage operational root causes
+
+**[ERP Financial Transaction Anomaly Detector](https://github.com/bhupesh-debug/ml-finance-anomaly)** — ML-powered ERP transaction validation system mirroring go-live readiness, data quality assurance, and post-implementation audit advisory
+
+**[Client Cash-Flow Early Warning Engine](https://github.com/bhupesh-debug/ml-project-client-cashflow-early-warning)** — Production Python ML engine for 13-week cash flow forecasting and 45-day Daily Cash Target breach early detection for executive advisory
+
+**[GRC & SHAP Explainable Risk Pipeline](https://github.com/bhupesh-debug/GRC)** — End-to-end Python model training pipeline, FastAPI serving endpoint, and SHAP executive explainability report generator
+
 **[Fraud Detection Analytics Capstone](https://github.com/bhupesh-debug)** — Built Python/Scikit-learn pipeline achieving **93% precision** on a 50,000-row banking dataset; COSO-aligned Power BI compliance dashboard with executive audit report (Pace University, 2025)
-
-**[Goldman Sachs Controllers Simulation](https://github.com/bhupesh-debug)** — R2R financial control governance, NAV oversight, intercompany reconciliation, and SEC regulatory reporting with management-level risk summaries
-
-**[JPMorgan Quantitative Research Simulation](https://github.com/bhupesh-debug)** — Python-based cash flow projection, financial scenario modeling, and Tableau/Power BI dashboard development translating complex datasets into strategic insights
 
 **[EY AI & Data Challenge — Water Quality ML Pipeline](https://github.com/bhupesh-debug)** — Snowflake ML pipeline (XGBoost/LightGBM/CatBoost + Optuna TPE, SHAP explainability, GroupKFold CV) targeting South African river water quality prediction — Lead Hydro-Informatics Strategist (2026)
 
@@ -176,19 +182,22 @@ I don't just analyze — I build automated reporting pipelines and data-driven d
 
 | Simulation | Company | Focus |
 |:---|:---|:---|
+| GenAI Financial Chatbot & Data Science | BCG | Agentic AI, Random Forest Churn, Data for Decision Makers |
+| Technology Risk & IT Controls | EY | Enterprise Risk Governance & Controls |
+| Sales Growth Strategy | Cisco | Commercial Advisory & Pipeline Growth |
 | Controllers Simulation | Goldman Sachs | NAV, R2R Governance, SEC Reporting |
 | Quantitative Research Simulation | JPMorgan Chase | Cash Flow Projection, Scenario Modeling |
 | Audit Simulation | PwC Switzerland | Materiality, Financial Statement Assessment |
-| Data Analytics Simulation | Deloitte Australia | Advanced Analytics & Investigation |
-| Job Simulation | Citi, Bank of America | Banking & Finance Operations |
+| Data Analytics Simulation | Deloitte Australia | Tableau Executive Analytics & Investigation |
+| Job Simulation | Citi, Bank of America, Bloomberg | Client Engagement, Equity Consulting & Banking Ops |
 
 ---
 
 ## 📈 Current Focus
 
-- 🎯 FP&A Manager / Finance Business Partner roles in NYC Metro & Remote US
+- 🎯 Industry Advisory (Hi-Tech / Financial Services), AI Transformation, FP&A Manager & Finance Business Partner roles in NYC Metro & Remote US
 - 📚 Active CPA Candidate (FAR track)
-- 🤖 Building AI-powered finance tools at the intersection of LLMs + financial analytics
+- 🤖 Building AI-powered finance & advisory tools at the intersection of Agentic AI, LLMs, and ERP analytics
 - 🔭 Quantitative research on Nasdaq-100 and Nifty 500 market structures
 
 ---
@@ -208,7 +217,7 @@ I don't just analyze — I build automated reporting pipelines and data-driven d
 </p>
 
 <p align="center">
-  <em>Open to FP&A Manager, Finance Business Partner, Strategic Finance, and Financial Analyst roles — NYC Metro & Remote US</em><br>
+  <em>Open to Industry Advisory, AI Transformation, FP&A Manager, Finance Business Partner, and Strategic Finance roles — NYC Metro & Remote US</em><br>
   <em>F-1 STEM OPT Authorized through December 2029 · No sponsorship required</em>
 </p>
 
